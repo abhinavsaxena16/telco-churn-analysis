@@ -1,13 +1,13 @@
 # Telco Customer Churn — Executive Analysis & Drill-Down
 
 One-line summary:
-Analysis of Telco customer churn to identify highest-risk cohorts and estimate revenue impact of targeted retention actions. 
-Tools: SQL → Excel → Tableau.
+- Analysis of Telco customer churn to identify highest-risk cohorts and estimate revenue impact of targeted retention actions. 
+- Tools: SQL → Excel → Tableau.
 
 ## TL;DR 
 - Overall churn rate: **26.58%**.  
 - Highest-risk cohort: **Month-to-month contract** (churn **42.71%**) — primary action target.  
-- Estimated annual lost revenue: **₹1,669,570**. Scenario modeling shows that reducing month-to-month churn by 10% (relative) could save ~**₹128,694** annually. (See `Excel/Scenario_Impact.xlsx`).
+- Estimated annual lost revenue: **₹1,669,570**. Scenario modeling shows that reducing overall churn by 5% could have a net impact(profit) of ~**₹105,510** annually. (See `Excel/Scenario_Impact.xlsx`).
 
 ## Repo contents
 See folder list in project brief — main items:
