@@ -12,7 +12,7 @@
 
 ## Repo contents
 See folder list in project brief — main items:
-- data/
+### data/
 - churn_overall.csv                   (Overall Churn Rate export from SQL)
 - churn_by_gender.csv                 (SQL export: churn by gender)
 - churn_by_contract.csv               (SQL export: churn by contract)  <-- sample provided
@@ -20,9 +20,8 @@ See folder list in project brief — main items:
 - churn_by_payment.csv                (SQL export: churn by payment method)
 - churn_by_charge_band.csv            (SQL export: churn by charge band)
 - cleaned/cleaned_dataset.csv         (cleaned dataset; 7032 rows)
-  
-  
-- sql/
+    
+### sql/
 - 01_extract_raw.sql
 - 02_cleaning_steps.sql
 - churn_overall.sql               (queries used to produce the overall churn rate csv)
@@ -33,19 +32,16 @@ See folder list in project brief — main items:
 - churn_contract.sql               
 - churn_charges.sql             
 
-
-- excel/
+### excel/
 - Churn_Analysis_Portfolio.xlsx   (KPIs + quick pivots + scenario modeling)
-
-         
-- tableau/
+       
+### tableau/
 - screenshots/
 - executive_screenshot.png
 - drilldown_screenshot.png
 - tableau_public_links.md
-
-     
-- docs/
+    
+### docs/
 - Customer Churn - Executive Summary.pdf       (one-page executive summary)
 
 ## How I approached this
