@@ -1,9 +1,0 @@
-PaymentMethod,Churn,customers,percentage_within_method
-"Bank transfer (automatic)",No,1284,83.27
-"Bank transfer (automatic)",Yes,258,16.73
-"Credit card (automatic)",No,1289,84.75
-"Credit card (automatic)",Yes,232,15.25
-"Electronic check",No,1294,54.71
-"Electronic check",Yes,1071,45.29
-"Mailed check",No,1296,80.80
-"Mailed check",Yes,308,19.20
