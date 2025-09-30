@@ -1,9 +1,0 @@
-tenure_band,Churn,customers,percentage_within_band
-"0-1 year",No,1138,52.32
-"0-1 year",Yes,1037,47.68
-"1-2 years",No,730,71.29
-"1-2 years",Yes,294,28.71
-"2-4 years",No,1269,79.61
-"2-4 years",Yes,325,20.39
-"4-6 years",No,2026,90.49
-"4-6 years",Yes,213,9.51
