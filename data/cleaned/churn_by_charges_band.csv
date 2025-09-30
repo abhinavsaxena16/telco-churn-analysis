@@ -1,7 +1,0 @@
-charges_band,Churn,customers,percentage_within_band
-"High ($70+)",No,2314,64.62
-"High ($70+)",Yes,1267,35.38
-"Low ($0-35)",No,1537,89.10
-"Low ($0-35)",Yes,188,10.90
-"Medium ($35-70)",No,1312,76.01
-"Medium ($35-70)",Yes,414,23.99
