@@ -20,26 +20,27 @@ See folder list in project brief — main items:
 - churn_by_payment.csv                (SQL export: churn by payment method)
 - churn_by_charge_band.csv            (SQL export: churn by charge band)
 - cleaned/cleaned_dataset.csv         (cleaned dataset; 7032 rows)
-  
+-  
 - sql/
 - 01_extract_raw.sql
 - 02_cleaning_steps.sql
 - churn_overall.sql               (queries used to produce the overall churn rate csv)
-- churn_tenureband.sql            (queries used to produce churn rate in various drivers
-- churn_gender.sql                 tenureband, gender
-- churn_payment.sql                payment,
-- churn_contract.sql               contract, monthly charges
-- churn_charges.sql               ).
-  
+- (queries used to produce churn rate in various drivers - tenureband, gender, payment,contract, monthly charges).
+- churn_tenureband.sql            
+- churn_gender.sql                 
+- churn_payment.sql                
+- churn_contract.sql               
+- churn_charges.sql             
+-  
 - excel/
 - Churn_Analysis_Portfolio.xlsx   (KPIs + quick pivots + scenario modeling)
-        
+-        
 - tableau/
 - screenshots/
 - executive_screenshot.png
 - drilldown_screenshot.png
 - tableau_public_links.md
-       
+-       
 - docs/
 - Customer Churn - Executive Summary.pdf       (one-page executive summary)
 
