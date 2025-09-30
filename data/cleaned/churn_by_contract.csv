@@ -1,7 +1,0 @@
-Contract,Churn,customers,percentage_within_contract
-Month-to-month,No,2220,57.29
-Month-to-month,Yes,1655,42.71
-"One year",No,1306,88.72
-"One year",Yes,166,11.28
-"Two year",No,1637,97.15
-"Two year",Yes,48,2.85
