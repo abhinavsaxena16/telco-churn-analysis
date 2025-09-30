@@ -14,31 +14,34 @@
 See folder list in project brief — main items:
 - data/
 - churn_overall.csv                   (Overall Churn Rate export from SQL)
-─ churn_by_gender.csv                 (SQL export: churn by gender)
-─ churn_by_contract.csv               (SQL export: churn by contract)  <-- sample provided
-─ churn_by_tenure_band.csv            (SQL export: churn by tenure bands)
-─ churn_by_payment.csv                (SQL export: churn by payment method)
-─ churn_by_charge_band.csv            (SQL export: churn by charge band)
-─ cleaned/cleaned_dataset.csv         (cleaned dataset; 7032 rows)
-─ sql/
-─ 01_extract_raw.sql
-─ 02_cleaning_steps.sql
-─ churn_overall.sql               (queries used to produce the overall churn rate csv)
+- churn_by_gender.csv                 (SQL export: churn by gender)
+- churn_by_contract.csv               (SQL export: churn by contract)  <-- sample provided
+- churn_by_tenure_band.csv            (SQL export: churn by tenure bands)
+- churn_by_payment.csv                (SQL export: churn by payment method)
+- churn_by_charge_band.csv            (SQL export: churn by charge band)
+- cleaned/cleaned_dataset.csv         (cleaned dataset; 7032 rows)
+  
+- sql/
+- 01_extract_raw.sql
+- 02_cleaning_steps.sql
+- churn_overall.sql               (queries used to produce the overall churn rate csv)
 - churn_tenureband.sql            (queries used to produce churn rate in various drivers
 - churn_gender.sql                 tenureband, gender
 - churn_payment.sql                payment,
 - churn_contract.sql               contract, monthly charges
 - churn_charges.sql               ).
-─ excel/
-─ Churn_Analysis_Portfolio.xlsx   (KPIs + quick pivots + scenario modeling)
+  
+- excel/
+- Churn_Analysis_Portfolio.xlsx   (KPIs + quick pivots + scenario modeling)
         
-─ tableau/
-─ screenshots/
-─ executive_screenshot.png
-─ drilldown_screenshot.png
-─ tableau_public_links.md     
-─ docs/
-─ Customer Churn - Executive Summary.pdf       (one-page executive summary)
+- tableau/
+- screenshots/
+- executive_screenshot.png
+- drilldown_screenshot.png
+- tableau_public_links.md
+       
+- docs/
+- Customer Churn - Executive Summary.pdf       (one-page executive summary)
 
 ## How I approached this
 1. Import raw CSV to MySQL using MySQL Workbench import wizard → churn.book table.
