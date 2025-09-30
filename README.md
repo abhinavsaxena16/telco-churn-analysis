@@ -36,10 +36,11 @@ See folder list in project brief — main items:
 - Churn_Analysis_Portfolio.xlsx   (KPIs + quick pivots + scenario modeling)
        
 ### tableau/
+- tableau_public_links.md (links to the **interactive Tableau dashboards**, The dashboards are hosted on **Tableau Public**)
 - screenshots/
 - executive_screenshot.png
 - drilldown_screenshot.png
-- tableau_public_links.md
+  
     
 ### docs/
 - Customer Churn - Executive Summary.pdf       (one-page executive summary)
