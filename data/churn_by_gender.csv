@@ -1,0 +1,5 @@
+gender,Churn,customers,percentage_within_gender
+Female,No,2544,73.04
+Female,Yes,939,26.96
+Male,No,2619,73.80
+Male,Yes,930,26.20
